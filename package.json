@@ -1,0 +1,19 @@
+{
+  "name": "job-queue",
+  "version": "0.0.0",
+  "description": "some stuff",
+  "main": "main.js",
+  "dependencies": {
+    "kue": "^0.8.12",
+		"express": "4.9.0",
+		"restler": "3.2.2",
+		"mongoose": "4.0.0",
+		"redis": "0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "levi",
+  "license": "ISC"
+}

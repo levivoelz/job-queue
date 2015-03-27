@@ -1,0 +1,7 @@
+{
+  "type": "fetch",
+    "data": {
+    "url": "http://jsonplaceholder.typicode.com/posts/",
+    "post_id": "3"
+  }
+}
